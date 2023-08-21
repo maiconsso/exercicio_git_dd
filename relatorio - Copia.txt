@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 teste de conflito
+=======
+alteraçao para aula
+>>>>>>> 2fae418af8edb4d4f2da4a97b152e31685f39724
+resolvi o problema
